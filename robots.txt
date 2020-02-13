@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sheicokoh.markeyev.ru/sitemap.xml
